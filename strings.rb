@@ -2,6 +2,6 @@ puts "kelly"
 puts "kelly".upcase
 puts "kelly".downcase
 puts "kelly".reverse
-puts "kelly".snapcase
+puts "kelly".swapcase
 puts "kelly".capitalize
 puts "Kelly Galka". length
